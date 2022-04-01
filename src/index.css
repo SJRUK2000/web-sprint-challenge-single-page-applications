@@ -1,5 +1,7 @@
 body {
-  margin: 0;
+  background-color: bisque;
+  color: tomato;
+  margin: 10%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
